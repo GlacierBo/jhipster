@@ -1,0 +1,8 @@
+
+entity ReturnSetting {
+	transType String,
+	isSame String,
+	store String,
+	intoStore Boolean
+}
+
